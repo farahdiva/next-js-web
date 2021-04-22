@@ -92,7 +92,7 @@ export default function Home() {
 
           <div className="col-lg-6 col-md-6 mb-4 mb-lg-0">
             <div className="card rounded border-0 bg-white">
-              <a href="https://web.github.com/gemarkode/">
+              <a href="https://github.com/gemarkode/">
                 <div className="card-body p-5 text-center"><i className="fab fa-github fa-3x  mb-3 text-dark"></i>
                   <h5 className="text-dark">Github</h5>
                   <p className="small text-muted font-italic">@gemarkode</p>
